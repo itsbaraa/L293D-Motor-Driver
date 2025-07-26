@@ -1,11 +1,10 @@
 # L293D Motor Driver
 
-This Arduino project controls a 4-wheel drive robot using a single L293D motor driver chip. The robot performs a pre-programmed sequence on startup and then switches to an autonomous obstacle avoidance mode using an ultrasonic sensor and a servo motor.
+This Arduino project controls a 4 dc motors using a single L293D motor driver chip. The motors perform a sequence on startup and then switches to an autonomous obstacle avoidance mode using an ultrasonic sensor and a servo motor.
 
 - **4 DC Motors** driven in parallel pairs (left side, right side).
 - A **L293D Motor Driver** to control the motors.
 - An **HC-SR04 Ultrasonic Sensor** to detect obstacles.
-- A **Servo Motor** IDK why.
 
 # How It Works
 
@@ -23,4 +22,4 @@ This Arduino project controls a 4-wheel drive robot using a single L293D motor d
 
 # Showcase
   
-https://github.com/user-attachments/assets/f23f134a-b797-4e70-8572-29a968ed8233
+https://github.com/user-attachments/assets/bf95b519-06f4-41c7-866a-16fc81980e5f
