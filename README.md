@@ -23,3 +23,4 @@ This Arduino project controls a 4 dc motors using a single L293D motor driver ch
 # Showcase
   
 https://github.com/user-attachments/assets/bf95b519-06f4-41c7-866a-16fc81980e5f
+> [Tinkercad project](https://www.tinkercad.com/things/eXltAqCx3H2-h-bridge?sharecode=sWeh8b6KSfH2VVcf3rJgWhCBPQfZqAxR6m2TJxB8zk8)
